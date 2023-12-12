@@ -1,3 +1,3 @@
 # cat
 
-Cat's are cute!
+Cats are cute!
